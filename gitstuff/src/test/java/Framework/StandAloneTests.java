@@ -68,11 +68,7 @@ public class StandAloneTests extends BaseTest {
 		
 	    System.out.println("finale");
 	    
-	    System.out.println("git1");
-	    System.out.println("git1");
-	    
-	    System.out.println("git2");
-	    System.out.println("git2");
+	    System.out.println("2ndbranch");
 	    
 	}
 	

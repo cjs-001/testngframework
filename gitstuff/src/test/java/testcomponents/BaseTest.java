@@ -118,6 +118,7 @@ public class BaseTest {
 	
 	public String takess(String testcasename, WebDriver driver) throws IOException
 	{
+		System.out.println("2ndbranch");
 		TakesScreenshot ts = (TakesScreenshot) driver;
 		File source = ts.getScreenshotAs(OutputType.FILE);
 		File file= new File(System.getProperty("user.dir")+"//reports//"+testcasename+".png");
