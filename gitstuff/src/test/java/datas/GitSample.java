@@ -7,7 +7,7 @@ public class GitSample {
 
 		
 		int[] i= {0,1,2,3,4,5,6,7,8};
-		String[] asd = {"asd","qwe","zxc"};
+		String[] asd = {"asd","qwe","zxc","rty"};
 	}
 
 }
