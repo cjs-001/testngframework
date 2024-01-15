@@ -8,6 +8,9 @@ public class GitSample {
 		
 		System.out.println("gitsample");
 		System.out.println("gitsample");
+		
+		System.out.println("gitsample");
+		System.out.println("gitsample");
 	}
 
 }
