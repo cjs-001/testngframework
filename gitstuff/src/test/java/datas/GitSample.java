@@ -19,6 +19,9 @@ public class GitSample {
 		
 		System.out.println("develop");
 		System.out.println("develop");
+		
+		System.out.println("develop");
+		System.out.println("develop");
 	}
 
 }
