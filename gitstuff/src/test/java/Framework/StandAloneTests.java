@@ -67,6 +67,10 @@ public class StandAloneTests extends BaseTest {
 		Assert.assertEquals(text, "THANKYOU FOR THE ORDER.");
 		
 	    System.out.println("finale");
+	    
+	    System.out.println("git1");
+	    System.out.println("git1");
+	    
 	}
 	
 	@Test(dependsOnMethods = {"submitorder"},dataProvider = "getdata")
