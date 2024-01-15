@@ -7,10 +7,10 @@ public class GitSample {
 
 		
 
-		int[] i= {0,1,2,3,4,5,6};
+		int[] i= {0,1,2,3,4,5,6,7};
 		String[] asd = {"asd","qwe","zxc","rty"};
 
-		int[] i= {0,1,2,3,4,5,6};
+		int[] q= {0,1,2,3,4,5,6,7,7,6};
 
 	}
 
