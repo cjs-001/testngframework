@@ -6,16 +6,7 @@ public class GitSample {
 		// TODO Auto-generated method stub
 
 		
-		System.out.println("gitsample");
-		System.out.println("gitsample");
-		
-		System.out.println("gitsample");
-		System.out.println("gitsample");
-		
-		System.out.println("gitsample");
-		System.out.println("gitsample");
-		System.out.println("gitsample");
-		System.out.println("gitsample");
+		int[] i= {0,1,2,3,4,5,6,7};
 	}
 
 }
