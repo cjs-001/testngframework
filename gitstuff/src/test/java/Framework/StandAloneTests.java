@@ -68,7 +68,7 @@ public class StandAloneTests extends BaseTest {
 		
 	    System.out.println("finale");
 	    
-	    System.out.println("2ndbranch");
+	    System.out.println("asd");
 	    
 	}
 	
