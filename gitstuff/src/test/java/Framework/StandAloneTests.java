@@ -71,6 +71,9 @@ public class StandAloneTests extends BaseTest {
 	    System.out.println("git1");
 	    System.out.println("git1");
 	    
+	    System.out.println("git2");
+	    System.out.println("git2");
+	    
 	}
 	
 	@Test(dependsOnMethods = {"submitorder"},dataProvider = "getdata")
